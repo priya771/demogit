@@ -1,3 +1,5 @@
 welcome to git
 
 i have learned how to push to remote repository
+
+ i have learn  to pull and fetch from github repo
